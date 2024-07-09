@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "64c247be"
+  },
+  "about.qmd": {
+    "about.html": "b18259f2"
+  },
+  "chapter2.qmd": {
+    "chapter2.html": "38abc845"
+  },
+  "ggplot2.qmd": {
+    "ggplot2.html": "d56b81dc"
+  },
+  "chapter3.qmd": {
+    "chapter3.html": "41e47732"
+  },
+  "chapter4.qmd": {
+    "chapter4.html": "12f9abc0"
+  }
+}

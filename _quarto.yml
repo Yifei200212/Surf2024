@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "ISL"
+  navbar:
+    left:
+      - href: chapter2.qmd
+        text: chapter2
+      - href: chapter3.qmd
+        text: chapter3
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
